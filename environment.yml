@@ -1,0 +1,7 @@
+name: mantis-aws-database-3.11
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - poetry
+prefix: /Users/gpapageo/opt/anaconda3/envs/mantis-aws-database-3.11
